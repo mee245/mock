@@ -11,7 +11,7 @@
       "emailAddress": "krish.lee@rawdata.com"
     },
     {
-      "userId": "devid",
+      "userId": "david",
       "jobTitle": "Developer",
       "firstName": "Devid",
       "lastName": "Rome",
@@ -29,6 +29,16 @@
       "region": "CA",
       "phoneNumber": "2222222",
       "emailAddress": "tin.jonson@rawdata.com"
+    },
+    {
+      "userId": "rita",
+      "jobTitle": "Program Directory",
+      "firstName": "rita",
+      "lastName": "seith",
+      "employeeCode": "E4",
+      "region": "CA",
+      "phoneNumber": "3333333",
+      "emailAddress": "rita.seith@rawdata.com"
     }
   ]
 }
