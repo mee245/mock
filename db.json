@@ -1,0 +1,35 @@
+{
+"posts:[
+{
+      code:'emp001', name:'jack',salary:85000, phone:'234567', department:'physics'
+    },
+    {
+      code:'emp002', name:'stolby',salary:95000, phone:'123456', department:'physics'
+    },
+    {
+      code:'emp003', name:'michael',salary:68000, phone:'123456', department:'physics'
+    },
+    {
+      code:'emp004', name:'sara',salary:63000, phone:'123456', department:'physics'
+    },
+    {
+      code:'emp005', name:'justin',salary:97000, phone:'123456', department:'physics'
+    }
+    ],
+    "comments": [
+    {
+    "id":1,
+    "body": "comment 1",
+    "postId": 1
+    },
+    {
+    "id":2,
+    "body": "comment 2",
+    "postId": 2
+    }
+    ],
+    "profile": {
+    "name": "Profile 1"
+    }
+    }
+    
