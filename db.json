@@ -7,7 +7,8 @@
       "employeeCode": "E1",
       "salary": 50000,
       "phoneNumber": "123456",
-      "age": 25
+      "age": 25, 
+      "gender": "male"
     },
     {
       "userId": "david",
@@ -16,7 +17,8 @@
       "employeeCode": "E2",
       "salary": 51000,
       "phoneNumber": "1111111",
-      "age": 26
+      "age": 26,
+      "gender": "male"
     },
     {
       "userId": "tin",
@@ -25,7 +27,8 @@
       "employeeCode": "E3",
       "salary": 52000,
       "phoneNumber": "2222222",
-      "age": 27
+      "age": 27,
+      "gender": "male"
     },
     {
       "userId": "ronika",
@@ -34,7 +37,8 @@
       "employeeCode": "E4",
       "salary": 53000,
       "phoneNumber": "33333333",
-      "age":28
+      "age":28,
+      "gender": "female"
     }
   ]
 }
