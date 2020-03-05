@@ -5,7 +5,7 @@
       "jobTitle": "Developer",
       "name": "krish",
       "employeeCode": "E1",
-      "region": "CA",
+      "salary": 50000,
       "phoneNumber": "123456",
       "age": 11
     },
@@ -14,7 +14,7 @@
       "jobTitle": "Developer",
       "name": "david",
       "employeeCode": "E2",
-      "region": "CA",
+      "salary": 51000,
       "phoneNumber": "1111111",
       "age": 21
     },
@@ -23,7 +23,7 @@
       "jobTitle": "Program Directory",
       "name": "tin",
       "employeeCode": "E3",
-      "region": "CA",
+      "salary": 52000,
       "phoneNumber": "2222222",
       "age": 31
     },
@@ -32,7 +32,7 @@
       "jobTitle": "Program Directory",
       "name": "ronika",
       "employeeCode": "E4",
-      "region": "CA",
+      "salary": 53000,
       "phoneNumber": "33333333",
       "age":41
     }
