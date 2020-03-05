@@ -3,42 +3,38 @@
     {
       "userId": "krish",
       "jobTitle": "Developer",
-      "firstName": "Krish",
-      "lastName": "Lee",
+      "name": "Krish",
       "employeeCode": "E1",
       "region": "CA",
       "phoneNumber": "123456",
-      "emailAddress": "krish.lee@rawdata.com"
+      "age": 11
     },
     {
       "userId": "david",
       "jobTitle": "Developer",
-      "firstName": "Devid",
-      "lastName": "Rome",
+      "name": "Devid",
       "employeeCode": "E2",
       "region": "CA",
       "phoneNumber": "1111111",
-      "emailAddress": "devid.rome@rawdata.com"
+      "age": 21
     },
     {
       "userId": "tin",
       "jobTitle": "Program Directory",
-      "firstName": "tin",
-      "lastName": "jonson",
+      "name": "tin",
       "employeeCode": "E3",
       "region": "CA",
       "phoneNumber": "2222222",
-      "emailAddress": "tin.jonson@rawdata.com"
+      "age": 31
     },
     {
       "userId": "rita",
       "jobTitle": "Program Directory",
-      "firstName": "rita",
-      "lastName": "seith",
+      "name": "rita",
       "employeeCode": "E4",
       "region": "CA",
       "phoneNumber": "33333333",
-      "emailAddress": "rita.seith@rawdata.com"
+      "age":41
     }
   ]
 }
