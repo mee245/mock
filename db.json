@@ -8,7 +8,7 @@
       "employeeCode": "E1",
       "region": "CA",
       "phoneNumber": "123456",
-      "emailAddress": "krish.lee@learningcontainer.com"
+      "emailAddress": "krish.lee@rawdata.com"
     },
     {
       "userId": "devid",
@@ -18,7 +18,7 @@
       "employeeCode": "E2",
       "region": "CA",
       "phoneNumber": "1111111",
-      "emailAddress": "devid.rome@learningcontainer.com"
+      "emailAddress": "devid.rome@rawdata.com"
     },
     {
       "userId": "tin",
@@ -28,7 +28,7 @@
       "employeeCode": "E3",
       "region": "CA",
       "phoneNumber": "2222222",
-      "emailAddress": "tin.jonson@learningcontainer.com"
+      "emailAddress": "tin.jonson@rawdata.com"
     }
   ]
 }
